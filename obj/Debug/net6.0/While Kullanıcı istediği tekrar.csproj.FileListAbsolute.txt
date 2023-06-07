@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\bin\Debug\net6.0\While Kullanıcı istediği tekrar.exe
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\bin\Debug\net6.0\While Kullanıcı istediği tekrar.deps.json
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\bin\Debug\net6.0\While Kullanıcı istediği tekrar.runtimeconfig.json
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\bin\Debug\net6.0\While Kullanıcı istediği tekrar.dll
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\bin\Debug\net6.0\While Kullanıcı istediği tekrar.pdb
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.AssemblyInfo.cs
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.dll
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\refint\While Kullanıcı istediği tekrar.dll
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.pdb
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\While Kullanıcı istediği tekrar.genruntimeconfig.cache
+C:\Users\pc\Desktop\20-02\21 şubat\While Kullanıcı istediği tekrar\While Kullanıcı istediği tekrar\obj\Debug\net6.0\ref\While Kullanıcı istediği tekrar.dll
